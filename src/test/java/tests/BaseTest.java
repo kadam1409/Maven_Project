@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeSuite;
 public class BaseTest {
 	
 	public  static WebDriver driver;
-	
+	//sample changes
 	@BeforeSuite
 	public void launchBrowser() {
 		//step-1 launch instance 
