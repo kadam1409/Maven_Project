@@ -10,8 +10,12 @@ import org.testng.annotations.Test;
 
 import pages.LoginPage;
 
+<<<<<<< HEAD
 //please change here
 //not done
+=======
+//please change here and done
+>>>>>>> 5519eac510e7a27e963460ffd2b27da27744c5e3
 public class LoginTest  {
 	public  WebDriver driver;
 	
