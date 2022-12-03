@@ -12,6 +12,8 @@ public class BaseTest {
 	
 	public  static WebDriver driver;
 	//sample changes
+//i cant understand
+
 	@BeforeSuite
 	public void launchBrowser() {
 		//step-1 launch instance 
